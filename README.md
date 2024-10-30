@@ -14,7 +14,7 @@ The objective in this project was to conduct an internal security audit and to e
 
 ### Tools Used
 
-- Botium Toys scope,goals, and risk assessment report
+- Botium Toys scope, goals, and risk assessment report
 - List of control categories
 - Controls and compliance checklist
 
