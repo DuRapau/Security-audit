@@ -20,5 +20,5 @@ The objective in this project was to conduct an internal security audit and to e
 
 ## Steps
 
-(https://docs.google.com/document/d/1W7DYxsmKi_J3G-8pM6m1SNFUsDSVl4rpbpl38olCIV0/view?usp=sharing)
+(https://docs.google.com/document/d/1W7DYxsmKi_J3G-8pM6m1SNFUsDSVl4rpbpl38olCIV0/view?usp)
 *Ref 1: Security audit checklist*
